@@ -21,3 +21,8 @@ g++ KnightsOuting.cpp
 * Step 3: Entre the number of moves (n)
 
 ![](image3.png)
+
+
+![](image4.png)
+
+![](image5.png)
